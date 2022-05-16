@@ -50,8 +50,6 @@
                 <scope>import</scope>
             </dependency>
 
-
-
             <!-- mysql驱动 -->
             <dependency>
                 <groupId>mysql</groupId>
